@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="home">
-
+  
   <ul class="post-list">
     {% for post in site.posts %}
       <li class="post-content">
@@ -14,8 +14,6 @@ layout: default
         <span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}{% if post.author %}<span class="author" itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>{% endif %}</span>
       </li>
     {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+    </ul>
 
 </div>
