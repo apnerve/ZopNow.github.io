@@ -16,6 +16,9 @@ url: "http://zopnow.engineering" # the base hostname & protocol for your site
 twitter_username: zopnow
 github_username:  zopnow
 
+# Global Settings
+permalink: /:year/:month/:day/:title.html
+
 # Build settings
 markdown: kramdown
 gems:
