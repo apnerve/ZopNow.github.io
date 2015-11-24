@@ -3,6 +3,7 @@ layout: post
 title:  "A tiny tale of how earth rotation affected our sleep"
 date:   2015-07-02 20:43:29 +0530
 categories: devops
+author: Vikash
 ---
 I woke up from a call from Mukesh apparently the website was not working for some of the people. In ZopNow’s history, it’s one of those rare occurrences which can be termed as the blue moon event. For @ujjawalmisra and I, all hell broke lose. This was important as we had just rolled out our new website to all our visitors after doing an A/B test. We had released it for 25% of our visitors first and after carefully monitoring for a day, we declared it is good to go. That was last night.
 
