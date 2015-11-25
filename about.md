@@ -1,11 +1,10 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /is/
 ---
 
-We are a team of language agnostic learners with experience in number of open source
-technologies.
+We are a team of language agnostic learners with experience in number of open source technologies.
 
 **We work with**
 fun, passion,
@@ -42,5 +41,4 @@ Python,
 Ruby,
 Erlang,
 RxJS
-and anything interesting which comes our way. 
-
+and anything interesting that comes our way.
